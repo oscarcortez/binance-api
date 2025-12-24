@@ -1,6 +1,5 @@
 import os
 from binance.client import Client
-from binance.enums import *
 from dotenv import load_dotenv
 
 load_dotenv()
